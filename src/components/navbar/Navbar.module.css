@@ -1,0 +1,22 @@
+.navbar {
+  margin: 1rem 0;
+  background: #aeaeae;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.navbar-item {
+  margin: 1rem 0;
+  background: #6151db;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.navbar-item.selected {
+  background: #22186b;
+  height: 100px;
+}
