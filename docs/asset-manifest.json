@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peamy.github.io/static/css/main.cf98049b.css",
+    "main.js": "/peamy.github.io/static/js/main.8588f42e.js",
+    "static/js/787.27ee058d.chunk.js": "/peamy.github.io/static/js/787.27ee058d.chunk.js",
+    "index.html": "/peamy.github.io/index.html",
+    "main.cf98049b.css.map": "/peamy.github.io/static/css/main.cf98049b.css.map",
+    "main.8588f42e.js.map": "/peamy.github.io/static/js/main.8588f42e.js.map",
+    "787.27ee058d.chunk.js.map": "/peamy.github.io/static/js/787.27ee058d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf98049b.css",
+    "static/js/main.8588f42e.js"
+  ]
+}
