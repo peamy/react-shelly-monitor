@@ -2,7 +2,7 @@
   "name": "shelly-monitor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "peamy.github.io",
+  "homepage": "https://peamy.github.io/react-shelly-monitor/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
